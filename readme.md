@@ -36,6 +36,7 @@ using browserify or bundle with your appliction using webpack.
 - [oo-ascii-tree](https://www.npmjs.com/package/oo-ascii-tree)
 - [asciify-pixel](https://github.com/IonicaBizau/asciify-pixel)
 - [babar](https://github.com/stephan83/babar)
+- [asciitree](https://github.com/antonmedv/asciitree)
 
 ### Node
 
