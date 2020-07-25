@@ -1,4 +1,4 @@
-# Awesome Ascii [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ASCII [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Awesome ASCII libraries
 
