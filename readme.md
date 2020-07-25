@@ -41,6 +41,7 @@ Node only libraries that may be run in terminal.
 - [lolcatjs](https://github.com/robertmarsal/lolcatjs)
 - [gradient-string](https://github.com/bokub/gradient-string)
 - [command-line-draw](https://github.com/liambloom/command-line-draw)
+- [node-cli-graph](https://github.com/IonicaBizau/node-cli-graph)
 
 ## Contribute
 
