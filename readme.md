@@ -40,6 +40,7 @@ Node only libraries that may be run in terminal.
 - [node-cli-pie](https://github.com/IonicaBizau/node-cli-pie)
 - [lolcatjs](https://github.com/robertmarsal/lolcatjs)
 - [gradient-string](https://github.com/bokub/gradient-string)
+- [command-line-draw](https://github.com/liambloom/command-line-draw)
 
 ## Contribute
 
