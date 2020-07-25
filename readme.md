@@ -39,6 +39,7 @@ Node only libraries that may be run in terminal.
 - [zibar](https://github.com/lbovet/zibar)
 - [node-cli-pie](https://github.com/IonicaBizau/node-cli-pie)
 - [lolcatjs](https://github.com/robertmarsal/lolcatjs)
+- [gradient-string](https://github.com/bokub/gradient-string)
 
 ## Contribute
 
