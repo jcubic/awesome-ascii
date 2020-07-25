@@ -53,6 +53,7 @@ work to make it possible to use in browser because of ANSI escapes.
 - [gradient-string](https://github.com/bokub/gradient-string)
 - [command-line-draw](https://github.com/liambloom/command-line-draw)
 - [node-cli-graph](https://github.com/IonicaBizau/node-cli-graph)
+- [ascii-progress](https://github.com/bubkoo/ascii-progress)
 
 
 ## Contribute
