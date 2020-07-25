@@ -7,6 +7,7 @@
 
 - [JavaScript](#javaScript)
   - [Isomorphic](#isomorphic)
+  - [Require bundler](#require-bundler)
   - [Node](#node)
 
 ## JavaScript
@@ -22,14 +23,22 @@ About this section. Optional. Keep this short and focus on the list.
 - [qrcode-terminal](https://github.com/gtanner/qrcode-terminal)
 - [asciichart](https://github.com/kroitor/asciichart)
 - [cowsay](https://github.com/piuccio/cowsay)
+
+### Require bundler
+
+Libraries with API that return strings that should be possible to use in browser,
+using browserify or bundle with your appliction using webpack.
+
+- [ascii-tree](https://github.com/liushuping/ascii-tree)
+- [ascii-histogram](https://www.npmjs.com/package/ascii-histogram)
+- [scen](https://github.com/chunqiuyiyu/scen)
 - [stringify-tree](https://github.com/jessitron/stringify-tree)
-- [ascii-histogram](https://www.npmjs.com/package/ascii-histogram) `[require browserify]`
-- [oo-ascii-tree](https://www.npmjs.com/package/oo-ascii-tree) `[ES Module]`
-- [ascii-tree](https://github.com/liushuping/ascii-tree) `[require browserify]`
+- [oo-ascii-tree](https://www.npmjs.com/package/oo-ascii-tree)
 
 ### Node
 
-Node only libraries that may be run in terminal.
+Node only libraries that may be run in terminal, libraries may require extra
+work to make it possible to use in browser because of ANSI escapes.
 
 - [ervy](https://github.com/chunqiuyiyu/ervy)
 - [yosay](https://github.com/yeoman/yosay)
@@ -43,6 +52,7 @@ Node only libraries that may be run in terminal.
 - [gradient-string](https://github.com/bokub/gradient-string)
 - [command-line-draw](https://github.com/liambloom/command-line-draw)
 - [node-cli-graph](https://github.com/IonicaBizau/node-cli-graph)
+
 
 ## Contribute
 
