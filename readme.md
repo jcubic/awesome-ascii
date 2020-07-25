@@ -18,7 +18,6 @@ About this section. Optional. Keep this short and focus on the list.
 
 - [figlet.js](https://github.com/patorjk/figlet.js)
 - [ascii-canvas](https://github.com/jcubic/ascii-canvas)
-- [ervy](https://github.com/chunqiuyiyu/ervy) `[require browserify]`
 - [isomorphic-lolcat](https://github.com/jcubic/isomorphic-lolcat)
 - [qrcode-terminal](https://github.com/gtanner/qrcode-terminal)
 - [asciichart](https://github.com/kroitor/asciichart)
@@ -31,6 +30,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 Node only libraries that may be run in terminal.
 
+- [ervy](https://github.com/chunqiuyiyu/ervy)
 - [yosay](https://github.com/yeoman/yosay)
 - [boxen](https://github.com/sindresorhus/boxen)
 - [table](https://github.com/gajus/table)
