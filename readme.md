@@ -25,6 +25,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [stringify-tree](https://github.com/jessitron/stringify-tree)
 - [ascii-histogram](https://www.npmjs.com/package/ascii-histogram) `[require browserify]`
 - [oo-ascii-tree](https://www.npmjs.com/package/oo-ascii-tree) `[ES Module]`
+- [ascii-tree](https://github.com/liushuping/ascii-tree) `[require browserify]`
 
 ### Node
 
