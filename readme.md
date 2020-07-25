@@ -35,6 +35,7 @@ using browserify or bundle with your appliction using webpack.
 - [stringify-tree](https://github.com/jessitron/stringify-tree)
 - [oo-ascii-tree](https://www.npmjs.com/package/oo-ascii-tree)
 - [asciify-pixel](https://github.com/IonicaBizau/asciify-pixel)
+- [babar](https://github.com/stephan83/babar)
 
 ### Node
 
@@ -54,7 +55,6 @@ work to make it possible to use in browser because of ANSI escapes.
 - [command-line-draw](https://github.com/liambloom/command-line-draw)
 - [node-cli-graph](https://github.com/IonicaBizau/node-cli-graph)
 - [ascii-progress](https://github.com/bubkoo/ascii-progress)
-
 
 ## Contribute
 
