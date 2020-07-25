@@ -27,6 +27,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Node
 - [yosay](https://github.com/yeoman/yosay)
+- [boxen](https://github.com/sindresorhus/boxen)
 
 ## Contribute
 
