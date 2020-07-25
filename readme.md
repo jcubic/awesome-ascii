@@ -29,6 +29,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [yosay](https://github.com/yeoman/yosay)
 - [boxen](https://github.com/sindresorhus/boxen)
 - [table](https://github.com/gajus/table)
+- [cli-table](https://github.com/Automattic/cli-table)
 
 ## Contribute
 
