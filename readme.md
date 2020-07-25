@@ -34,6 +34,7 @@ using browserify or bundle with your appliction using webpack.
 - [scen](https://github.com/chunqiuyiyu/scen)
 - [stringify-tree](https://github.com/jessitron/stringify-tree)
 - [oo-ascii-tree](https://www.npmjs.com/package/oo-ascii-tree)
+- [asciify-pixel](https://github.com/IonicaBizau/asciify-pixel)
 
 ### Node
 
