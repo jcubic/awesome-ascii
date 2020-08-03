@@ -12,6 +12,12 @@
 
 ## JavaScript
 
+### Browser
+- [aalib.js](https://github.com/mir3z/aalib.js)
+- [lettercrap](https://github.com/nate-parrott/lettercrap)
+- [ascii-morph](https://github.com/tholman/ascii-morph)
+- [imgToAscii](https://github.com/victorqribeiro/imgToAscii)
+
 ### Isomorphic
 
 Libraries that can run in browser or Node.js (it may require to use browserify 
@@ -23,6 +29,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [qrcode-terminal](https://github.com/gtanner/qrcode-terminal)
 - [asciichart](https://github.com/kroitor/asciichart)
 - [cowsay](https://github.com/piuccio/cowsay)
+- [asciimo](https://github.com/marak/asciimo)
+
 
 ### Require bundler
 
@@ -56,6 +64,7 @@ work to make it possible to use in browser because of ANSI escapes.
 - [command-line-draw](https://github.com/liambloom/command-line-draw)
 - [node-cli-graph](https://github.com/IonicaBizau/node-cli-graph)
 - [ascii-progress](https://github.com/bubkoo/ascii-progress)
+- [ascii-art](https://github.com/khrome/ascii-art)
 
 ## Contribute
 
