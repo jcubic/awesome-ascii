@@ -6,6 +6,7 @@
 ## Contents
 
 - [JavaScript](#javaScript)
+  - [Browser](#browser)
   - [Isomorphic](#isomorphic)
   - [Require bundler](#require-bundler)
   - [Node](#node)
