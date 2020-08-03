@@ -66,6 +66,7 @@ work to make it possible to use in browser because of ANSI escapes.
 - [node-cli-graph](https://github.com/IonicaBizau/node-cli-graph)
 - [ascii-progress](https://github.com/bubkoo/ascii-progress)
 - [ascii-art](https://github.com/khrome/ascii-art)
+- [image-to-ascii](https://github.com/IonicaBizau/image-to-ascii)
 
 ## Contribute
 
