@@ -21,8 +21,7 @@
 
 ### Isomorphic
 
-Libraries that can run in browser or Node.js (it may require to use browserify 
-About this section. Optional. Keep this short and focus on the list.
+Libraries that can run in browser or Node.js (it may require to use browserify)
 
 - [figlet.js](https://github.com/patorjk/figlet.js)
 - [ascii-canvas](https://github.com/jcubic/ascii-canvas)
