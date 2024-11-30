@@ -30,12 +30,12 @@ Libraries that can run in browser or Node.js (it may require to use browserify)
 - [asciichart](https://github.com/kroitor/asciichart)
 - [cowsay](https://github.com/piuccio/cowsay)
 - [asciimo](https://github.com/marak/asciimo)
-
+- [ascii-morph](https://github.com/jcubic/ascii-morph) (fork of @tholman)
 
 ### Require bundler
 
 Libraries with API that return strings that should be possible to use in browser,
-using browserify or bundle with your appliction using webpack.
+using browserify or bundler with your appliction using webpack.
 
 - [ascii-tree](https://github.com/liushuping/ascii-tree)
 - [ascii-histogram](https://www.npmjs.com/package/ascii-histogram)
