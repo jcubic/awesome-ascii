@@ -10,6 +10,7 @@
   - [Isomorphic](#isomorphic)
   - [Require bundler](#require-bundler)
   - [Node](#node)
+- [Web Apps](#web-apps)
 
 ## JavaScript
 
@@ -66,6 +67,9 @@ work to make it possible to use in browser because of ANSI escapes.
 - [ascii-progress](https://github.com/bubkoo/ascii-progress)
 - [ascii-art](https://github.com/khrome/ascii-art)
 - [image-to-ascii](https://github.com/IonicaBizau/image-to-ascii)
+
+## Web Apps
+- [cascii](https://cascii.app/)
 
 ## Contribute
 
