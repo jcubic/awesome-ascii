@@ -32,6 +32,7 @@ Libraries that can run in browser or Node.js (it may require to use browserify)
 - [cowsay](https://github.com/piuccio/cowsay)
 - [asciimo](https://github.com/marak/asciimo)
 - [ascii-morph](https://github.com/jcubic/ascii-morph) (fork of @tholman)
+- [ascii-globe](https://github.com/jcubic/ascii-globe)
 
 ### Require bundler
 
@@ -70,6 +71,9 @@ work to make it possible to use in browser because of ANSI escapes.
 
 ## Web Apps
 - [cascii](https://cascii.app/)
+
+## CLI
+- [ascii-block](https://github.com/jcubic/ascii-block)
 
 ## Contribute
 
