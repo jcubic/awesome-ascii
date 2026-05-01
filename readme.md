@@ -11,6 +11,7 @@
   - [Require bundler](#require-bundler)
   - [Node](#node)
 - [Web Apps](#web-apps)
+- [CLI](#cli)
 
 ## JavaScript
 
