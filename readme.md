@@ -71,6 +71,7 @@ work to make it possible to use in browser because of ANSI escapes.
 - [image-to-ascii](https://github.com/IonicaBizau/image-to-ascii)
 
 ## Web Apps
+- [ASCIICraft](https://asciicraft.com/) - convert video, GIF, image, text and audio to ASCII in the browser, 329 figlet fonts, MP4/GIF/PNG export, no upload
 - [cascii](https://cascii.app/)
 
 ## CLI
