@@ -20,6 +20,7 @@
 - [lettercrap](https://github.com/nate-parrott/lettercrap)
 - [ascii-morph](https://github.com/tholman/ascii-morph)
 - [imgToAscii](https://github.com/victorqribeiro/imgToAscii)
+- [textmode.js](https://code.textmode.art/)
 
 ### Isomorphic
 
@@ -72,6 +73,10 @@ work to make it possible to use in browser because of ANSI escapes.
 
 ## Web Apps
 - [cascii](https://cascii.app/)
+- [automata.textmode.art](https://automata.textmode.art)
+- [create.textmode.art](https://create.textmode.art)
+- [editor.textmode.art](https://editor.textmode.art)
+- [export.textmode.art](https://export.textmode.art)
 
 ## CLI
 - [ascii-block](https://github.com/jcubic/ascii-block)
