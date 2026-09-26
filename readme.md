@@ -72,6 +72,7 @@ work to make it possible to use in browser because of ANSI escapes.
 
 ## Web Apps
 - [cascii](https://cascii.app/)
+- [Image to ASCII](https://imagetoascii.art/) - Convert images to ASCII art in the browser and export the result as TXT.
 
 ## CLI
 - [ascii-block](https://github.com/jcubic/ascii-block)
